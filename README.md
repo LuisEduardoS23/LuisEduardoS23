@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Luisshangata!
+- 👋 Hi, I’m Luis Eduardo!
 - 👀 I’m interested in progamming.
-- 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on? IDK
+- 🌱 I’m currently graduating in computer science.
 - 📫 How to reach me? text to 'luisesoares4@gmail.com'.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: i love airplanes and cartoons.

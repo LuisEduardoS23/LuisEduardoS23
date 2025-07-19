@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Me chamo Luis Eduardo, sou graduando em Ciência da Computação pelo IFMA-Instituto Federal do Maranhão Campus Caxias 🌐👾.  Se quiser entrar em contato, por favor, envie um e-mail. 📧📬</p>
+<p align="left">Me chamo Luis Eduardo, sou graduando em Ciência da Computação pelo Instituto Federal do Maranhão - IFMA Campus Caxias 🌐👾.  Se quiser entrar em contato, por favor, envie um e-mail. 📧📬</p>
 
 ###
 

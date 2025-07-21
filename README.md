@@ -1,5 +1,7 @@
 <h1 align="center">Olá, Bem vindo!👋</h1>
 
+
+
 ###
 
 
@@ -9,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/9Wmb.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/9Wmb.gif" style="border: 4px solid #FF4500; border-radius: 8px;" />
 
 ###
 
@@ -45,12 +47,23 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoS23&layout=compact&theme=radical)
 
+## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardoS23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  /> 
-  <img src="https://streak-stats.demolab.com?user=LuisEduardoS23&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardoS23&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&disable_animations=false&theme=default&locale=pt-br&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="250" alt="Estatísticas do GitHub" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoS23&layout=compact&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="200" alt="Linguagens mais usadas" />
+      </td>
+      <td align="right">
+        <img src="https://streak-stats.demolab.com?user=LuisEduardoS23&locale=pt-br&mode=daily&hide_border=false&border_radius=5&background=000000&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideNums=FF4500&currStreakNum=FF4500&sideLabels=FF4500&dates=FF4500" height="220" alt="Contribuições consecutivas" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+

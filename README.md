@@ -48,22 +48,22 @@
 ###
 
 
-## 📈 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardoS23&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&disable_animations=false&theme=default&locale=pt-br&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="250" alt="Estatísticas do GitHub" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoS23&layout=compact&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="200" alt="Linguagens mais usadas" />
-      </td>
-      <td align="right">
-        <img src="https://streak-stats.demolab.com?user=LuisEduardoS23&locale=pt-br&mode=daily&hide_border=false&border_radius=5&background=000000&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideNums=FF4500&currStreakNum=FF4500&sideLabels=FF4500&dates=FF4500" height="220" alt="Contribuições consecutivas" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisEduardoS23&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&disable_animations=false&theme=default&locale=pt-br&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="300" alt="Estatísticas do GitHub" />
 </div>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoS23&layout=compact&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="220" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://streak-stats.demolab.com?user=LuisEduardoS23&locale=pt-br&mode=daily&hide_border=false&border_radius=5&background=000000&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideNums=FF4500&currStreakNum=FF4500&sideLabels=FF4500&dates=FF4500" height="300" alt="Contribuições consecutivas" />
+</div>
+
+
+
+
+
+
 
 

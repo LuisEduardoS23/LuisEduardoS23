@@ -56,10 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoS23&layout=compact&hide_border=false&bg_color=000000&title_color=FF4500&text_color=FF4500&icon_color=FF4500" height="220" alt="Linguagens mais usadas" />
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://streak-stats.demolab.com?user=LuisEduardoS23&locale=pt-br&mode=daily&hide_border=false&border_radius=5&background=000000&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideNums=FF4500&currStreakNum=FF4500&sideLabels=FF4500&dates=FF4500" height="300" alt="Contribuições consecutivas" />
-</div>
-
 
 
 
